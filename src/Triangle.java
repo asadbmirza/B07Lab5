@@ -1,5 +1,3 @@
-package B07Lab5;
-
 import lab4.Point;
 
 public class Triangle {
