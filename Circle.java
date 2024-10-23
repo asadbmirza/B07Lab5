@@ -20,6 +20,11 @@ public class Circle {
   }
 
   @Override
+  public int hashCode() {
+    return (int) (3 * radius + 5 * center.x + 7 * center.y);
+  }
+  
+  @Override
   public boolean equals(Object obj) {
     if (this == obj)
       return true;
