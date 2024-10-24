@@ -26,7 +26,7 @@ class CircleTests1 {
 	@Test
 	void testEqualsReflexitivity() {
 		Circle circle = new Circle(1, new Point(0, 0));
-		assertTrue(circle.equals(), circle);
+		assertTrue(circle.equals(circle));
 	}
 	
 
