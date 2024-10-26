@@ -1,5 +1,3 @@
-package B07Lab5;
-
 public class Point {
   public double x;
 	public double y;
