@@ -54,7 +54,6 @@ class CircleTests1 {
 		assertTrue(circle.equals(new Circle(1, new Point(0, 0))));
 	}
 
-
 	// ----
 	@Test
 	void testBasicCircleCircumference(){
