@@ -1,5 +1,3 @@
-import lab4.Point;
-
 public class Triangle {
 	Point A;
 	Point B;
