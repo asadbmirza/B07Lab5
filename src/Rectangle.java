@@ -1,10 +1,10 @@
-public class Square{
+public class Rectangle{
     Point A;
     Point B;
     Point C;
     Point D;
 
-    public Square(Point A, Point B, Point C, Point D){
+    public Rectangle(Point A, Point B, Point C, Point D){
         this.A = A;
         this.B = B;
         this.C = C;
