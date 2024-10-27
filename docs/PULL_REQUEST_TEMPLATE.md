@@ -1,8 +1,8 @@
 ## Description of Changes
-Added Test cases for Circle.circumference() and Circle.hashCode()
+Describe the changes you proposed in this pull request.
 
 ## Type of Change
-Test cases
+Describe the type of change you are proposing in this pull request
 
 ## Self Code Review
-Ran the test cases
+Review your code before pushing
