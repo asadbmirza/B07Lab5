@@ -15,8 +15,8 @@ public class SquareTest {
     @Test
     void testSquareFalse() {
 
-        Rectangle one = new Rectangle(new Point(0,0 ), new Point(0,1 ), new Point(1,1 ), new Point(1,0 ));
+        Rectangle one = new Rectangle(new Point(0,0 ), new Point(0,3 ), new Point(2,3 ), new Point(2,0 ));
 
-        assertTrue(true, one.isSquare());
+        assertTrue(false, one.isSquare());
     }
 }
